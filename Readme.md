@@ -1,8 +1,10 @@
 # Sprint 001 for Hut8 #
 
-=> No images added. Just the Awkward Seal.
-=> Low Responsivity.
-=> Had to learn to do a graphic. Did it with CSS, wich was ... strange.
+#No images added. Just the Awkward Seal.
+#Low Responsivity.
+#Had to learn to do a graphic. Did it with CSS, wich was ... strange.
+#No script.
+
 
 This is the result of the first task given to us Trainees at Hut8 in april/2019.
 
