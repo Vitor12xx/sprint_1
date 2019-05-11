@@ -1,9 +1,10 @@
 # Sprint 001 for Hut8 #
 
--> No images added. Just the Awkward Seal.
--> Low Responsivity.
+=> No images added. Just the Awkward Seal.
+=> Low Responsivity.
+=> Had to learn to do a graphic. Did it with CSS, wich was ... strange.
 
-This is the result of the first sprint given to us Trainees at Hut8 in april/2019.
+This is the result of the first task given to us Trainees at Hut8 in april/2019.
 
 Based on a given model I decided to let my good sense lead me on doing a static page with the theme RPG, wich I love.
 
